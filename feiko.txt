@@ -10,6 +10,8 @@ trying rebase and merge
 
 
 
+feature2  added line2
+
 123
 
 456
